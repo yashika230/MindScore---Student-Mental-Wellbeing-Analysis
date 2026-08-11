@@ -1,0 +1,1 @@
+# MindScore---Student-Mental-Wellbeing-Analysis
