@@ -4,10 +4,6 @@ MindScore is an end-to-end machine learning web application that predicts a stud
 
 The project combines a **Scikit-learn machine learning pipeline**, **FastAPI backend**, and a lightweight **HTML/CSS/JavaScript frontend**.
 
-<p align="center">
-  <img src="assets/screenshot-hero.png" alt="MindScore prediction interface" width="850">
-</p>
-
 ---
 
 ## 📌 Overview
@@ -91,12 +87,11 @@ The application provides a simple interface where users can enter information ab
 The frontend sends the input data to the FastAPI backend, which processes the data through the trained ML pipeline and returns the predicted wellbeing score.
 
 <p align="center">
-  <img src="assets/screenshot-form.png" alt="MindScore input form" width="750">
+  <img src="Screenshots/screenshot-form.png" alt="MindScore input form" width="750">
 </p>
 
 <p align="center">
-  <img src="assets/screenshot-result-healthy.png" alt="MindScore prediction result" width="400">
-  <img src="assets/screenshot-result-moderate.png" alt="MindScore moderate prediction result" width="400">
+  <img src="Screenshots/screenshot-hero.png" alt="MindScore prediction result" width="750">
 </p>
 
 ---
@@ -131,3 +126,9 @@ MindScore---Student-Mental-Wellbeing-Analysis/
 ├── main.py
 ├── LICENSE
 └── README.md
+```
+---
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/yashikamishra23)
+- 💻 [GitHub](https://github.com/yashika230)
